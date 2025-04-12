@@ -2,7 +2,7 @@
 #include <sys/mman.h>
 #include <cstring>
 
-namespace Kama_memoryPool
+namespace H_memoryPool
 {
 
 void* PageCache::allocateSpan(size_t numPages)

@@ -2,7 +2,7 @@
 #include "CentralCache.h"
 #include <stdlib.h>
 
-namespace Kama_memoryPool
+namespace H_memoryPool
 {
 
 void* ThreadCache::allocate(size_t size)

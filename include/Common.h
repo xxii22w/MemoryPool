@@ -4,7 +4,7 @@
 #include <array>
 #include <memory>
 
-namespace Kama_memoryPool 
+namespace H_memoryPool 
 {
 // 对齐数和大小定义
 constexpr size_t ALIGNMENT = 8;
